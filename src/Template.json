@@ -1,0 +1,45 @@
+{
+  "profile":{
+    "surname":"put your fisrt name here",
+    "name":"put your last name here",
+    "dob":"put your date of birth here",
+    "email":"put your email here",
+    "mobile":"put your mobile number here",
+    "identification_number":"put your identification number here",
+    "driving_license":"put your driving license number here",
+    "home_address":"put your home address here",
+    "office_address":"put your office address here",
+    "city":"put your city here",
+    "country":"put your country here"
+  },
+  "medical":{
+    "disease_name":"put your sensor_name here",
+    "disease_type":"put your sensor_type here",
+    "duration":"put your sensor_version here",
+    "disease_details":"put your sensor_details here"
+  },
+  "house":{
+    "house_number":"put your house_number here",
+    "house_name":"put your house_name here",
+    "house_address":"put your house_address here",
+    "location":"put your location here",
+    "postcode":"put your postcode here",
+    "city":"put your city here",
+    "country":"put your country here",
+    "house_details":"put your house_details here"
+  },
+  "room":[{
+    "room_type":"put your room_type here",
+    "room_details":"put your room_details here"
+  }],
+  "zone":[{
+    "zone_type":"put your zone_type here",
+    "zone_details":"put your zone_details here"
+  }],
+  "sensor":[{
+    "sensor_name":"put your sensor_name here",
+    "sensor_type":"put your sensor_type here",
+    "sensor_version":"put your sensor_version here",
+    "sensor_details":"put your sensor_details here"
+  }]
+}
